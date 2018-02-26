@@ -12,3 +12,19 @@ h1 {
     line-height: normal;
 }
 
+html * {
+
+    box-sizing: border-box;
+}
+
+[class name] ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+}
+
+body {
+    margin: 0;
+}
