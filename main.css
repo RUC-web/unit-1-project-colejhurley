@@ -14,6 +14,10 @@
     line-height: normal;
 }
 
+body {
+  background-image: https://github.com/RUC-web/unit-1-project-colejhurley/blob/master/Artworks-metal-gear-solid-v-the-phantom-pain-038.jpg
+}
+
 html * {
 
     box-sizing: border-box;
