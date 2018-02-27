@@ -23,7 +23,7 @@ html * {
     box-sizing: border-box;
 }
 
-[class name] ul {
+<nav> ul {
     display: flex;
     justify-content: space-between;
     margin: 0;
